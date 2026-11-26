@@ -1,0 +1,66 @@
+Flight Status Tracker
+
+Team Members: Navya Chowdary B (2620030093), Shanmuka Priya (2620030248)
+
+1. Project Abstract
+
+The Flight Status Tracker is a responsive web application that helps travellers quickly look up flight details and monitor journey updates through a clean, accessible interface. It combines intuitive search forms with clear visual status indicators. This reduces confusion around schedule changes and presents essential flight information in an easy-to-scan format.
+Users can search by flight number, route or travel date. They can view real-time or scheduled flight status, such as on-time, delayed, boarding or landed. The results also show planned and actual departure and arrival times, airport details, terminal numbers and gate assignments.
+Colour-coded badges and structured layouts highlight schedule adjustments immediately. This helps travellers, and those picking them up, plan airport arrivals and connections with greater confidence on both desktop and mobile devices.
+
+2. Advantages
+
+• Quick lookup: Finds flights by flight number, route or travel date.
+• Clear status: Colour-coded badges make delays and other changes easy to spot.
+• Information in one place: Shows times, airport details, terminals and gates together.
+• Time comparison: Places planned and actual departure and arrival times side by side.
+• Better planning: Helps users time airport arrivals, pick-ups and connections.
+• Responsive design: Works across desktop and mobile devices.
+• User-friendly interface: Presents information in a clean, easy-to-scan layout.
+
+3. Implementation Details
+
+• Flight Search: Provides search forms for flight number, route and travel date.
+• Search Results: Displays the flights that match the search.
+• Flight Status Display: Shows the real-time or scheduled status, such as on-time, delayed, boarding or landed.
+• Status Indicators: Uses colour-coded badges with status labels to highlight changes.
+• Schedule Details: Shows planned and actual departure and arrival times.
+• Airport Information: Displays airport details, terminal numbers and gate assignments.
+• Clear Navigation: Lets users move easily between search and flight information.
+• Responsive Layout: Adjusts the interface to desktop and mobile screens.
+
+4. Output Screenshots
+
+Output 1 – Flight Search Page
+The search page lets users look up flights by flight number, route or travel date.
+Illustrative mock-up with sample data.
+
+Output 2 – Search Results
+The results page lists matching flights with their status badges.
+Illustrative mock-up with sample data.
+
+Output 3 – Flight Status Details
+The details page shows the flight's status and its planned and actual departure and arrival times.
+Illustrative mock-up with sample data.
+
+Output 4 – Airport, Terminal and Gate Information
+This view shows the airport details, terminal numbers and gate assignments for the selected flight.
+Illustrative mock-up with sample data.
+
+5. Conclusion
+
+The Flight Status Tracker gives travellers a simple way to look up flights and follow journey updates in one web application. Its search forms, status badges and structured layouts make schedule changes easier to notice and understand.
+The project demonstrates web-page structure, form-based search, information display and responsive design. A real deployment would need a reliable flight data source, proper error handling and regular data updates to keep the information accurate.
+
+6. Future Work
+
+• Add user accounts so travellers can save frequently tracked flights.
+• Send delay, gate change and boarding alerts by email, SMS or push notification.
+• Show live flight positions on an interactive map.
+• Add weather information for departure and arrival airports.
+• Let users share a flight's status with family or the person picking them up.
+• Show baggage claim belt details where available.
+• Integrate additional approved flight data providers as backup sources.
+• Support multiple languages and local time zone display.
+• Further improve accessibility and mobile responsiveness.
+• Add offline access to the last viewed flight details.
